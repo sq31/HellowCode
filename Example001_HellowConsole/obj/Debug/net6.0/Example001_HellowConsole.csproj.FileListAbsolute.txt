@@ -1,0 +1,15 @@
+D:\Обучение\GeekBrains\C#_education\Examples\Example001_HellowConsole\bin\Debug\net6.0\Example001_HellowConsole.exe
+D:\Обучение\GeekBrains\C#_education\Examples\Example001_HellowConsole\bin\Debug\net6.0\Example001_HellowConsole.deps.json
+D:\Обучение\GeekBrains\C#_education\Examples\Example001_HellowConsole\bin\Debug\net6.0\Example001_HellowConsole.runtimeconfig.json
+D:\Обучение\GeekBrains\C#_education\Examples\Example001_HellowConsole\bin\Debug\net6.0\Example001_HellowConsole.dll
+D:\Обучение\GeekBrains\C#_education\Examples\Example001_HellowConsole\bin\Debug\net6.0\Example001_HellowConsole.pdb
+D:\Обучение\GeekBrains\C#_education\Examples\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.csproj.AssemblyReference.cache
+D:\Обучение\GeekBrains\C#_education\Examples\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\GeekBrains\C#_education\Examples\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.AssemblyInfoInputs.cache
+D:\Обучение\GeekBrains\C#_education\Examples\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.AssemblyInfo.cs
+D:\Обучение\GeekBrains\C#_education\Examples\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.csproj.CoreCompileInputs.cache
+D:\Обучение\GeekBrains\C#_education\Examples\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.dll
+D:\Обучение\GeekBrains\C#_education\Examples\Example001_HellowConsole\obj\Debug\net6.0\refint\Example001_HellowConsole.dll
+D:\Обучение\GeekBrains\C#_education\Examples\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.pdb
+D:\Обучение\GeekBrains\C#_education\Examples\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.genruntimeconfig.cache
+D:\Обучение\GeekBrains\C#_education\Examples\Example001_HellowConsole\obj\Debug\net6.0\ref\Example001_HellowConsole.dll
